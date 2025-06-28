@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Welcome Home",
+      "author": "Mom",
+      "content": "Finally you are back from service."
+    },
+    {
+      "id": "2",
+      "title": "It is Time",
+      "author": "Coach",
+      "content": "Get ready for the fight!"
+    },
+    {
+      "id": "3",
+      "title": "The Storm is Coming",
+      "author": "Ruben",
+      "content": "Tough times are here!"
+    },
+    {
+      "id": "4",
+      "title": "Good Days are Here",
+      "author": "Amorim",
+      "content": "We will win the league."
+    }
+  ]
+}
